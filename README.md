@@ -1,4 +1,4 @@
-# EU_sports_App
+# EU_Sports_App
 
 
 ![Home Page](https://user-images.githubusercontent.com/72119116/216786104-fe7e8645-07d0-48de-9830-5e8b892f1cca.JPG)
