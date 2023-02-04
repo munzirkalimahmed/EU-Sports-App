@@ -1,5 +1,5 @@
 # EU_Sports_App
-EU Sports is a App developed in Android Studio(Framework: Flutter) using Dart language.
+EU Sports is a cross platform App developed in Android Studio(Framework: Flutter) using Dart language.
 Here are screenshots of EU Sports App:
 
 ![Home Page](https://user-images.githubusercontent.com/72119116/216786104-fe7e8645-07d0-48de-9830-5e8b892f1cca.JPG)
